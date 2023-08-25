@@ -1,8 +1,8 @@
-# I'm Carolina Campos👩‍💻
- nice to meet you!🤝😁
+# 👩‍💻Carolina Campos
+Hey, nice to meet you! I'm a Computer Engineering undergraduate student at Universidade de Brasília, Brazil. I'm also currently studying Fullstack Development at Santander Bootcamp 2023 and <diversidadeTech/> program by Ília Digital and ITalents.
 
 
-### Let's reach out! 🤝😁
+### 🤝😁 Let's reach out!
 <div>
 <a href = "mailto: carolina.fdcampos@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="www.linkedin.com/in/carolina-campos-227080264" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
