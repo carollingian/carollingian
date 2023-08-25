@@ -1,5 +1,5 @@
-# I'm Carolina Campos👩‍💻, 
-## nice to meet you!🤝😁
+# I'm Carolina Campos👩‍💻
+ nice to meet you!🤝😁
 
 
 ### Let's reach out! 🤝😁
