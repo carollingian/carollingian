@@ -2,6 +2,10 @@
 Hey, nice to meet you! I'm a Computer Engineering undergraduate student at Universidade de Brasília, Brazil. 
 I'm also currently studying Fullstack Development at Santander Bootcamp 2023 and diversidadeTech Fullstack program by Ília Digital and ITalents.
 
+## 🖌️My tools
+
+### Front-end
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
 
 ##### 🤝😁 Let's reach out!
 <div>
