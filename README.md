@@ -4,6 +4,8 @@ I'm also currently studying IT Support from Google+CIEE project, Fullstack Devel
 
 ### 📖Learning
 <div>
+  <a align="right" href="https://github.com/carollingian">
+  <img align="right" loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carollingian&layout=compact&langs_count=7&theme=dracula"/>
   <img width="4%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" />
   <img width="4%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
   <img width="4%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
@@ -58,10 +60,6 @@ I'm also currently studying IT Support from Google+CIEE project, Fullstack Devel
 
 <br>
 
-<div>
-<a href="https://github.com/carollingian">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carollingian&layout=compact&langs_count=7&theme=dracula"/>
-</div>
 <!--
 **carollingian/carollingian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
