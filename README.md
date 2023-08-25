@@ -1,5 +1,5 @@
 # 👩‍💻Carolina Campos
-Hey, nice to meet you! I'm a Computer Engineering undergraduate student at Universidade de Brasília, Brazil. I'm also currently studying Fullstack Development at Santander Bootcamp 2023 and <diversidadeTech/> program by Ília Digital and ITalents.
+Hey, nice to meet you! I'm a Computer Engineering undergraduate student at Universidade de Brasília, Brazil. I'm also currently studying Fullstack Development at Santander Bootcamp 2023 and diversidadeTech Fullstack program by Ília Digital and ITalents.
 
 
 ### 🤝😁 Let's reach out!
