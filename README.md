@@ -5,7 +5,7 @@ I'm also currently studying Fullstack Development at Santander Bootcamp 2023 and
 ## 🖌️My tools
 
 ### Front-end
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
+
 
 ##### 🤝😁 Let's reach out!
 <div>
