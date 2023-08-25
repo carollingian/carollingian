@@ -1,13 +1,15 @@
-## Hi there 👋
+# I'm Carolina Campos👩‍💻, 
+## nice to meet you!🤝😁
 
 
-#### Let's reach out! 🤝😁
-<br>
+### Let's reach out! 🤝😁
 <div>
 <a href = "mailto: carolina.fdcampos@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="www.linkedin.com/in/carolina-campos-227080264" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
-<br>
+
+<br><br>
+
 <div>
 <a href="https://github.com/carollingian">
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carollingian&layout=compact&langs_count=7&theme=dracula"/>
