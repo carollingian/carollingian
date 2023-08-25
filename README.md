@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=e8e349&size=30&center=false&vCenter=true&width=1000&lines=What's+up?;I'm+Carolina+Campos;Nice+to+meet+you+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=e8e349&size=40&center=false&vCenter=true&width=1000&lines=What's+up?;I'm+Carolina+Campos;Nice+to+meet+you+:%29)](https://git.io/typing-svg)
 <p>I'm a Computer Engineering undergraduate student at Universidade de Brasília, Brazil.</p> 
 <p>I'm also currently studying IT Support from Google+CIEE project, Fullstack Development at Santander Bootcamp 2023 and diversidadeTech Fullstack program by Ília Digital and ITalents.</p>
 
