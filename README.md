@@ -18,27 +18,27 @@ I'm also currently studying IT Support from Google+CIEE project, Fullstack Devel
 
 ## 🖌️My tools
 
-#### 🪟Front-end
+### 🪟Front-end
 <div>
   <img width="4%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg"/>
   <img width="4%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
   <img width="4%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
 </div>
 
-#### ⚙️Back-end
+### ⚙️Back-end
 <div>
   <img width="4%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/>
   <img width="4%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" />
 </div>
 
-#### 🗃️Database & TDD
+### 🗃️Database & TDD
 <div>
   <img width="4%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>
   <img width="4%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" />
   <img width="4%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytest/pytest-original.svg" />
 </div>
 
-#### 🧮DevOps, Organization & Design
+### 🧮DevOps, Organization & Design
 <div>
   <img width="4%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
   <img width="4%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
@@ -50,7 +50,7 @@ I'm also currently studying IT Support from Google+CIEE project, Fullstack Devel
   <img width="4%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" />
 </div>
 
-#### 🎈Competitive Programming
+### 🎈Competitive Programming
 <div>
   <img width="4%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
   <img width="4%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-plain.svg" />
