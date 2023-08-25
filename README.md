@@ -1,11 +1,11 @@
-# 👩‍💻Carolina Campos (she/her)
-<p>Hey, what's up? I'm a Computer Engineering undergraduate student at Universidade de Brasília, Brazil.</p> 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=e8e349&size=30&center=false&vCenter=true&width=1000&lines=What's+up?;I'm+Carolina+Campos;Nice+to+meet+you+:%29)](https://git.io/typing-svg)
+<p>I'm a Computer Engineering undergraduate student at Universidade de Brasília, Brazil.</p> 
 <p>I'm also currently studying IT Support from Google+CIEE project, Fullstack Development at Santander Bootcamp 2023 and diversidadeTech Fullstack program by Ília Digital and ITalents.</p>
 
 ### 📖Learning
 <div>
   <a align="right" href="https://github.com/carollingian">
-  <img align="right" loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carollingian&layout=compact&langs_count=7&theme=dracula"/>
+  <img align="right" loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carollingian&layout=compact&hide_border=true&title_color=e8e349&&text_color=ffffff&bg_color=0d1117"/>
   <img width="4%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" />
   <img width="4%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
   <img width="4%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
