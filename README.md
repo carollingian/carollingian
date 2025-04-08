@@ -1,6 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=e8e349&size=40&center=false&vCenter=true&width=1000&lines=What's+up?;I'm+Carolina+Campos;Nice+to+meet+you+:%29)](https://git.io/typing-svg)
-<p>I'm a Computer Engineering undergraduate student at Universidade de Brasília, Brazil.</p> 
-<p>I'm also currently studying IT Support from Google+CIEE project, Fullstack Development at Santander Bootcamp 2023 and diversidadeTech Fullstack program by Ília Digital and ITalents.</p>
+<p>I'm a Computer Science undergraduate student at Universidade de Brasília, Brazil.</p> 
 
 ### 📖Learning
 <div>
@@ -30,14 +29,11 @@
 ### ⚙️Back-end
 <div>
   <img width="4%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/>
-  <img width="4%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" />
 </div>
 
 ### 🗃️Database & TDD
 <div>
   <img width="4%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>
-  <img width="4%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" />
-  <img width="4%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytest/pytest-original.svg" />
 </div>
 
 ### 🧮DevOps, Organization & Design
