@@ -1,9 +1,9 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=e8e349&size=40&center=false&vCenter=true&width=1000&lines=What's+up?;I'm+Carolina+Campos;Nice+to+meet+you+:%29)](https://git.io/typing-svg)
-<p>I'm a Computer Science undergraduate student at Universidade de Brasília, Brazil.</p> 
+<p>I'm a Computer Science undergraduate student at Universidade de Brasília, Brazil. <br/> <b>AI Developer</b> at Centro Integrado de Inteligência Artificial (CIIA), with prior experience in Front-end Development.</p> 
 
 ### 📖Learning
 <div>
-  <img width="4%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+  <img width="6%" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" />
   <a align="right" href="https://github.com/carollingian">
   <img align="right" loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carollingian&layout=compact&hide_border=true&title_color=e8e349&&text_color=ffffff&bg_color=0d1117"/>
 </div>
@@ -15,6 +15,15 @@
 </div>
 
 # 🖌️My tools
+
+### 📊AI and Data Science
+<div>
+  <img width="4%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
+  <img width="4%" src="https://img.icons8.com/?size=100&id=xSkewUSqtErH&format=png&color=000000" />
+  <img width="4%" src="https://img.icons8.com/?size=100&id=TkX1totjFmAD&format=png&color=000000" />
+  <img width="4%" src="https://img.icons8.com/?size=100&id=aR9CXyMagKIS&format=png&color=000000" />
+  <img width="4%" src="https://img.icons8.com/?size=100&id=sop9ROXku5bb&format=png&color=000000" />
+</div>
 
 ### 🪟Front-end
 <div>
@@ -33,24 +42,18 @@
 ### 🗃️Database & TDD
 <div>
   <img width="4%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>
+  <img width="4%" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg"/>
 </div>
 
-### 🧮DevOps, Organization & Design
+### 🧮DevOps, Agile & Organization
 <div>
   <img width="4%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
   <img width="4%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
   <img width="4%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" />
   <img width="4%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
   <img width="4%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" />
-  <img width="4%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" />
-  <img width="4%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" />
-  <img width="4%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" />
-</div>
-
-### 🎈Competitive Programming
-<div>
-  <img width="4%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
-  <img width="4%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-plain.svg" />
+  <img width="4%" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" />
+  <img width="4%" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/insomnia/insomnia-original.svg" />
 </div>
 
 <br>
