@@ -1,5 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=e8e349&size=40&center=false&vCenter=true&width=1000&lines=What's+up?;I'm+Carolina+Campos;Nice+to+meet+you+:%29)](https://git.io/typing-svg)
-<p>I'm a Computer Science undergraduate student at Universidade de Brasília, Brazil. <br/> <b>AI Developer</b> at Centro Integrado de Inteligência Artificial (CIIA), with prior experience in Front-end Development.</p> 
+<p>I'm a Computer Science undergraduate student at Universidade de Brasília, Brazil. <br/> <b>AI Engineering Intern</b> at Indicium AI, with prior experience in Front-end Development.</p> 
 
 ### 📖Learning
 <div>
