@@ -3,7 +3,8 @@
 
 ### 📖Learning
 <div>
-  <img width="6%" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" />
+  <img width="4%" src="https://img.icons8.com/?size=100&id=zQjzFjPpT2Ek&format=png&color=000000" />
+  <img width="4%" src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/databricks.png" />
   <a align="right" href="https://github.com/carollingian">
   <img align="right" loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carollingian&layout=compact&hide_border=true&title_color=e8e349&&text_color=ffffff&bg_color=0d1117"/>
 </div>
@@ -23,6 +24,7 @@
   <img width="4%" src="https://img.icons8.com/?size=100&id=TkX1totjFmAD&format=png&color=000000" />
   <img width="4%" src="https://img.icons8.com/?size=100&id=aR9CXyMagKIS&format=png&color=000000" />
   <img width="4%" src="https://img.icons8.com/?size=100&id=sop9ROXku5bb&format=png&color=000000" />
+  <img width="4%" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" />
 </div>
 
 ### 🪟Front-end & JS
